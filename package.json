@@ -1,7 +1,7 @@
 {
   "name": "trifid-plugin-cotton-candy",
   "description": "Trifid Cotton Candy template engine plugin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://github.com/zazuko/trifid-plugin-cotton-candy",
   "repository": {
@@ -17,6 +17,5 @@
   "dependencies": {
     "cotton-candy": "^1.1.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
